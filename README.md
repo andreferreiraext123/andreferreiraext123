@@ -2,7 +2,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/andre-matos-ferreira21970611681" target="_blank"> André Matos </a></h1>
 <img width="40%" align="right" src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-<h3 align="center"> Software Enginnering Student | Data/Bussiness and Backend Enthusiast </h3>
+<h3 align="center"> Software Engineering Student | Data, Business, and Backend Enthusiast </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=andreferreiraext123&label=Profile%20views&color=6805D3&style=flat" alt="André Matos Ferreira" /> </p></h3>
 <div align="center">
@@ -12,26 +12,21 @@
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316092.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white" />
-<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%2338A6E8.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-I believe in implementing the knowledge which you have. Projects play a significant role in showcasing your skills. They help in predicting the skills of a person. So let's have a look at my project section.
+I believe in a holistic vision, where the professional, in addition to software development skills, also needs to have a business vision.
 
 
 <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/andre-matos-ferreira21970611681" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/andretwitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:1andrematos1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
