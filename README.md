@@ -1,4 +1,4 @@
-![](https://github.com/SauravMukherjee44/SauravMukherjee44/blob/2eaf9913624f1ed5b2c909873e60f2eb153ef793/Banner.png)
+![](https://raw.githubusercontent.com/andreferreiraext123/andreferreiraext123/main/backgroundLinkedin.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/andre-matos-ferreira21970611681" target="_blank"> André Matos </a></h1>
 <img width="40%" align="right" src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
@@ -26,14 +26,6 @@
 
 I believe in implementing the knowledge which you have. Projects play a significant role in showcasing your skills. They help in predicting the skills of a person. So let's have a look at my project section.
 
-<h1 align="center">Projects</h1>
-
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [E-Commerce Sales Monitoring System](https://github.com/andreferreiraext123/sales-monitoring-system)     | System for monitoring sales data using Python, PostgreSQL, and Power BI. |
-| [Personal Portfolio](https://github.com/andreferreiraext123/portfolio)     | A portfolio website showcasing my projects and skills. Built using HTML5, CSS3, JavaScript. |
-| [Data Visualization Dashboard](https://github.com/andreferreiraext123/data-visualization-dashboard)     | Dashboard for data visualization created with Power BI and Python. |
-| [Streamlit Web App](https://github.com/andreferreiraext123/streamlit-web-app)     | Web application built using Streamlit for interactive data visualization and analysis. |
 
 <h1 align="center">Let's Get Connected</h1>
 
