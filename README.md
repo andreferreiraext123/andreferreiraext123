@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o André Ferreira 👋</h1>
+<h1 align="center">Olá, eu sou o André Matos 👋</h1>
 
 <p align="center">
   Sou desenvolvedor de software, especialista em REST APIs com experiência em criação de alta qualidade.
@@ -18,11 +18,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"I believe in a holistic vision, where the professional, in addition to software development skills, also needs to have a business vision."</i>
-</p>
-
-<div align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/andreferreiraext123.svg?style=social&label=Follow)](https://github.com/andreferreiraext123)
-</div>
