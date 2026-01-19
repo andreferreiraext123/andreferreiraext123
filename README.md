@@ -1,47 +1,28 @@
-<div align="center">
-  <h1>Olá, eu sou o André Ferreira! 👋</h1>
-  <p align="center">
-    <strong>Software Engineer | Business Strategist | Problem Solver</strong>
-  </p>
+<h1 align="center">Olá, eu sou o André Ferreira 👋</h1>
 
+<p align="center">
+  Sou desenvolvedor de software, especialista em REST APIs com experiência em criação de alta qualidade.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+<p align="center">
+  <i>"I believe in a holistic vision, where the professional, in addition to software development skills, also needs to have a business vision."</i>
+</p>
+
+<div align="center">
   [![GitHub followers](https://img.shields.io/github/followers/andreferreiraext123.svg?style=social&label=Follow)](https://github.com/andreferreiraext123)
-</div>
-
----
-
-### 💡 Minha Filosofia
-> "I believe in a holistic vision, where the professional, in addition to software development skills, also needs to have a business vision."
-
-Acredito que tecnologia é uma ferramenta para resolver problemas reais. Meu foco é construir software de alta qualidade que esteja intrinsecamente alinhado aos objetivos de negócio e à experiência do usuário.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-- **Linguagens & Frameworks:** [Ex: Java, Spring Boot, Node.js, React]
-- **Banco de Dados & Cloud:** [Ex: PostgreSQL, MongoDB, AWS, Docker]
-- **Visão de Negócio:** Metodologias Ágeis, Arquitetura de Software, Análise de Sistemas.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreferreiraext123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreferreiraext123&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
----
-
-### 📫 Vamos nos conectar?
-
-Seja para discutir uma nova ideia de negócio ou falar sobre arquitetura de sistemas, estou sempre aberto a novas conexões!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </div>
